@@ -7,6 +7,7 @@
 각 프로젝트는 독립적으로 실행될 수 있도록 구성되어 있으며,
 모듈화된 코드, 고급 Feature Engineering, 모델 튜닝, 앙상블 등을 포함합니다.
 
+```text
 📂 Repository Structure
 Competition/
 ├── Future_Sales_Demographics/
@@ -15,6 +16,7 @@ Competition/
 ├── Thyroid_Cancer_Classification/
 ├── Toss_CTR_Prediction/
 └── README.md
+```
 
 🧾 1. Future Sales & Demographics Prediction
 
