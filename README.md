@@ -17,6 +17,7 @@ Competition/
 ├── Toss_CTR_Prediction/
 └── README.md
 ```
+---
 
 🧾 1. Future Sales & Demographics Prediction
 
@@ -41,6 +42,8 @@ CatBoost / LightGBM / XGBoost 기반 예측
 🧠 기술 스택
 
 Python, Pandas, Numpy, LightGBM, CatBoost, XGBoost, Scikit-Learn
+
+---
 
 🧬 2. SMILES-Based Drug Activity Prediction
 
@@ -74,6 +77,8 @@ smiles_model_go.py
 
 Python, RDKit, Chemprop, PyTorch Lightning, CatBoost, Scikit-Learn
 
+---
+
 🚢 3. Smart Port AGV Route Optimization
 
 스마트 항만 AGV(Automated Guided Vehicle) 최적 경로 탐색
@@ -105,6 +110,8 @@ agv_02_reconstruct_from_elites.py
 
 Python, OR-Tools, Numpy, Pandas
 
+---
+
 🩺 4. Thyroid Cancer Classification [ 최종 1위 수상 ]
 
 갑상선암 binary classification 문제
@@ -135,6 +142,8 @@ thyroid_final.py
 🧠 기술 스택
 
 Python, LightGBM, XGBoost, CatBoost, Optuna, Scikit-Learn
+
+---
 
 📈 5. Toss CTR Prediction
 
@@ -170,6 +179,8 @@ CTR_final.py
 🧠 기술 스택
 
 Python, PyArrow, Pandas, Numpy, XGBoost GPU, PyTorch, tqdm, gc
+
+---
 
 🛠 전체 기술 스택 요약
 Languages: Python  
