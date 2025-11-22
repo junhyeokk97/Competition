@@ -181,7 +181,7 @@ CTR_final.py
 Python, PyArrow, Pandas, Numpy, XGBoost GPU, PyTorch, tqdm, gc
 
 ---
-
+```text
 🛠 전체 기술 스택 요약
 Languages: Python  
 Machine Learning: LightGBM, CatBoost, XGBoost  
@@ -191,3 +191,4 @@ Data Engineering: Pandas, Numpy, PyArrow
 Cheminformatics: RDKit  
 Hyperparameter Search: Optuna  
 Visualization & Utility: Matplotlib, Seaborn, tqdm, gc, joblib
+```
