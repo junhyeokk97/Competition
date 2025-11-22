@@ -66,13 +66,13 @@ High-activity Oversampling
 CatBoost 회귀 모델
 
 GroupKFold 기반 검증 및 제출 생성
-
+```text
 📁 포함 파일
 smiles_data.py
 smiles_data_go.py
 smiles_model_final.py
 smiles_model_go.py
-
+```
 🧠 기술 스택
 
 Python, RDKit, Chemprop, PyTorch Lightning, CatBoost, Scikit-Learn
@@ -96,7 +96,7 @@ ALNS (Adaptive Large Neighborhood Search)
 Elite Set 기반 재구성(Reconstruct)
 
 Operator weight 업데이트
-
+```text
 📁 포함 파일
 agv_00.py
 agv_01_local_search_solver_20pt.py
@@ -105,7 +105,7 @@ agv_01_local_search_solver_RegretInsertion.py
 agv_01_local_search_solver_fast.py
 agv_01_local_search_solver_shaw.py
 agv_02_reconstruct_from_elites.py
-
+```
 🧠 기술 스택
 
 Python, OR-Tools, Numpy, Pandas
@@ -131,14 +131,14 @@ F1 Score 최대 threshold 자동 탐색
 Fold별 모델 저장
 
 Feature Importance 시각화
-
+```text
 📁 포함 파일
 thyroid_1000.py
 thyroid_2000.py
 thyroid_catencoder.py
 thyroid_ensemble.py
 thyroid_final.py
-
+```
 🧠 기술 스택
 
 Python, LightGBM, XGBoost, CatBoost, Optuna, Scikit-Learn
@@ -169,13 +169,13 @@ FT-Transformer 실험
 10-Fold OOF → Test Ensemble
 
 자동 제출 생성
-
+```text
 📁 포함 파일
 CTR_Feature Engineering.py
 CTR_stop100.py
 CTR_FT-Transformer.py
 CTR_final.py
-
+```
 🧠 기술 스택
 
 Python, PyArrow, Pandas, Numpy, XGBoost GPU, PyTorch, tqdm, gc
